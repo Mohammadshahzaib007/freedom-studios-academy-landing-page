@@ -1,1 +1,1 @@
-"# freedom-studios-academy-landing-page"
+# freedom-studios-academy-landing-page
