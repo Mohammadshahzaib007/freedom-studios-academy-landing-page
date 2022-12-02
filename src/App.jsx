@@ -1,7 +1,9 @@
+import Text from "./components/Text/Text";
+
 function App() {
   return (
     <div className="App">
-      <h1>Shahzaib</h1>
+      <Text>Hello world</Text>
     </div>
   );
 }
