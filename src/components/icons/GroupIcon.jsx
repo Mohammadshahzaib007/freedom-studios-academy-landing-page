@@ -18,4 +18,4 @@ function GroupIcon(props) {
   );
 }
 
-export default SvgComponent;
+export default GroupIcon;
