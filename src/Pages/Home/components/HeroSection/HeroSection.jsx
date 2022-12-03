@@ -1,10 +1,10 @@
 import styles from "./heroSection.module.css";
-import logo from "../../../assets/logo.png";
-import Text from "../../../components/Text/Text";
-import Button from "../../../components/Button/Button";
-import CalendarIcon from "../../../components/icons/CalendarIcon";
-import GroupIcon from "../../../components/icons/GroupIcon";
-import LaptopIcon from "../../../components/icons/LaptopIcon";
+import logo from "../../../../assets/logo.png";
+import Text from "../../../../components/Text/Text";
+import Button from "../../../../components/Button/Button";
+import CalendarIcon from "../../../../components/icons/CalendarIcon";
+import GroupIcon from "../../../../components/icons/GroupIcon";
+import LaptopIcon from "../../../../components/icons/LaptopIcon";
 
 function HeroSection() {
   return (
