@@ -4,4 +4,4 @@
 
 **_This design was taken from the Figma community_**
 
-![Final output]("./src/assets/Freedom-studios-academy.png")
+![Final output]("src/assets/Freedom-studios-academy.png")
