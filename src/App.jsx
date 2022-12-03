@@ -6,7 +6,7 @@ function App() {
     <div className="App" style={{ background: "black", height: "100vh" }}>
       <Text type="h1">Shahzaib</Text>
 
-      <Button>Hello world</Button>
+      <Button>Select a membership plan</Button>
     </div>
   );
 }
