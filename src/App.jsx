@@ -1,14 +1,7 @@
-import Button from "./components/Button/Button";
-import Text from "./components/Text/Text";
+import Home from "./Pages/Home/Home";
 
 function App() {
-  return (
-    <div className="App" style={{ background: "black", height: "100vh" }}>
-      <Text type="h1">Shahzaib</Text>
-
-      <Button>Select a membership plan</Button>
-    </div>
-  );
+  return <Home />;
 }
 
 export default App;
