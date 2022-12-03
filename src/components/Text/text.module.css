@@ -7,30 +7,35 @@
   font-weight: bold;
   font-size: 4rem;
   line-height: 4.6875rem;
+  text-transform: uppercase;
 }
 
 .heading2 {
   font-weight: bold;
   font-size: 2.25rem;
   line-height: 2.5rem;
+  text-transform: uppercase;
 }
 
 .heading3 {
   font-weight: bold;
   font-size: 1.5rem;
   line-height: 1.875rem;
+  text-transform: uppercase;
 }
 
 .heading4 {
   font-weight: bold;
   font-size: 1.125rem;
   line-height: 1.25rem;
+  text-transform: uppercase;
 }
 
 .heading5 {
   font-weight: bold;
   font-size: 1rem;
   line-height: 1.25rem;
+  text-transform: uppercase;
 }
 
 .body1 {

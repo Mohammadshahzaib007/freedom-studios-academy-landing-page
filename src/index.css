@@ -16,3 +16,8 @@ img {
   --secondary-color: #191c1f;
   --tertiary-color: #e11b19;
 }
+
+.container {
+  max-width: 1110px;
+  margin: 0 auto;
+}
