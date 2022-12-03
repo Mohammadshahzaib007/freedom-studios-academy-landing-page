@@ -12,6 +12,7 @@
   align-items: center;
   cursor: pointer;
   transition: all 0.3s;
+  gap: 0.9375rem;
 }
 
 .btn:hover {
@@ -20,8 +21,4 @@
 
 .btn:active {
   transform: scale(1);
-}
-
-.btn svg {
-  margin-left: 0.9375rem;
 }
