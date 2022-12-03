@@ -2,8 +2,8 @@ import Text from "./components/Text/Text";
 
 function App() {
   return (
-    <div className="App">
-      <Text>Hello world</Text>
+    <div className="App" style={{ background: "black", height: "100vh" }}>
+      <Text type="h1">Shahzaib</Text>
     </div>
   );
 }
