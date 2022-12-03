@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer/Footer";
 import HeroSection from "./components/HeroSection/HeroSection";
 import SectionFour from "./components/SectionFour/SectionFour";
 import SectionThree from "./components/SectionThree/SectionThree";
@@ -13,6 +14,8 @@ function Home() {
       <SectionThree />
 
       <SectionFour />
+
+      <Footer />
     </div>
   );
 }
