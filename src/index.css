@@ -10,3 +10,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+:root {
+  --primary-color: #1f2327;
+  --secondary-color: #191c1f;
+  --tertiary-color: #e11b19;
+}
